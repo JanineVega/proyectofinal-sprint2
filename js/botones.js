@@ -1,9 +1,4 @@
 
-
-
-
-
-
 //----------Botones principales Sprint---------------------
 var mostarOcultar = function(divtexte) {
 	var divtext = document.getElementById(divtexte);
